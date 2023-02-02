@@ -1,0 +1,6 @@
+msfadmin
+service
+user
+postgres
+vagrant
+
